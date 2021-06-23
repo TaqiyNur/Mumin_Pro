@@ -46,7 +46,6 @@ struct keluarga{ //struct untuk anggota keluarga waris
 	int cuculk;
 	int cucupr;
 };
-
 //end of codes block
 //----------------------------------------------------
 
